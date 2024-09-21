@@ -2,15 +2,20 @@
 
 Website untuk Lucart, toko pakaian online yang menjual t-shirt kustom.
 
-## Fitur
+## Fitur Utama
 
-- Tampilan produk t-shirt
-- Kategori produk
-- Keranjang belanja
+- **Tampilan produk**: Menampilkan koleksi t-shirt dengan gambar dan deskripsi.
+- **Kategori produk**: Memudahkan pengguna dalam menjelajahi berbagai jenis t-shirt.
+- **Keranjang belanja**: Pengguna dapat menambahkan produk ke keranjang dan melakukan pemesanan dengan mudah.
+- **Halaman Profil**: Pengguna dapat melihat dan mengedit informasi akun mereka.
+- **Histori Pembelian**: Pengguna dapat melihat riwayat pembelian mereka untuk kemudahan referensi.
 
-## Screenshots
+## Teknologi yang Digunakan
 
-![Screenshot 10](lucart/img/Screenshot (10).png)
-![Screenshot 11](lucart/img/Screenshot (11).png)
-![Screenshot 12](lucart/img/Screenshot (12).png)
+- HTML
+- CSS
+- JavaScript
+- PHP 
+- MySQL 
+
 
