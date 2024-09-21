@@ -10,12 +10,12 @@ Website untuk Lucart, toko pakaian online yang menjual t-shirt kustom.
 
 ## Screenshots
 
-![Screenshot 4](Pictures/Screenshots/awal.png)
-![Screenshot 5](Pictures/Screenshots/Screenshot(5).png)
-![Screenshot 6](Pictures/Screenshots/Screenshot(6).png)
-![Screenshot 7](Pictures/Screenshots/Screenshot(7).png)
-![Screenshot 8](Pictures/Screenshots/Screenshot(8).png)
-![Screenshot 9](Pictures/Screenshots/Screenshot(9).png)
-![Screenshot 10](Pictures/Screenshots/Screenshot(10).png)
-![Screenshot 11](Pictures/Screenshots/Screenshot(11).png)
-![Screenshot 12](Pictures/Screenshots/Screenshot(12).png)
+![Screenshot 4](lucart/img/screenshot(4).png)
+![Screenshot 5](lucart/img/screenshot(5).png)
+![Screenshot 6](lucart/img/screenshot(6).png)
+![Screenshot 7](lucart/img/screenshot(7).png)
+![Screenshot 8](lucart/img/screenshot(8).png)
+![Screenshot 9](lucart/img/screenshot(9).png)
+![Screenshot 10](lucart/img/screenshot(10).png)
+![Screenshot 11](lucart/img/screenshot(11).png)
+![Screenshot 12](lucart/img/screenshot(12).png)
